@@ -2,6 +2,7 @@
 
 This repository collects various prompts I've found useful or intriguing, organized by category with brief descriptions. The goal is to build a personal knowledge base of high-quality prompts to inspire creativity, aid analysis, assist writing, and support other tasks. Feel free to explore, and contribute your own interesting prompts.
 
+ADD SOMETHING
 
 # Prompts
 
