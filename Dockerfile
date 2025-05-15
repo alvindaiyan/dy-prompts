@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM public.ecr.aws/nginx/nginx:stable-alpine
 
 # Create index.html with Hello World content
 RUN echo '<!DOCTYPE html>\
